@@ -1,0 +1,13 @@
+untuk ke halaman admin urlnya :
+localhost/simplynews/login
+
+Akun Login admin utama:
+username : admin
+password : 12345
+
+akun login penulis :
+username : huruf kecil dari nama depan setiap anggota kelompok ini (contoh: ega)
+password : 12345
+
+url tampilan halaman utama berita :
+localhost/simplynews/home
